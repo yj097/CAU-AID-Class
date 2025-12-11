@@ -62,5 +62,5 @@ This project is licensed under the MIT License.
 
 ---
 ## Author
-Developed by [백영주]
+Developed by 백영주
 Your address [byj3566@naver.com]
