@@ -52,9 +52,15 @@ Balanced Accuracy: 0.95
 Enter the sepal.length and petal.length for the iris in the format 'sepal_length,petal_length': 5.1,1.8
 Predicted Label: Virginica
 ```
-
+## Notes
+- Ensure that the input for predictions is numeric and follows the correct format (`value1,value2`).
+- Modify the dataset loading path only if necessary.
+- The classifier uses scikit-learn’s KNN implementation.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
+## Author
+Developed by [백영주]
+Your address [byj3566@naver.com]
